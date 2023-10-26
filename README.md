@@ -1,1 +1,1 @@
-# code-inn
+# codeInn
